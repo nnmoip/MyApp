@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="name">Noëllie PAULUS</string>
+    <string name="profilDescription">Kotlin Beginner</string>
+    <string name="phoneNumber">(+33) ???</string>
+    <string name="emailAdress">" --- @gmail.com"</string>
+    <string name="GitHubLink">https://github.com/nnmoip</string>
+</resources>
